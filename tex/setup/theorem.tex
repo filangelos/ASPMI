@@ -1,0 +1,21 @@
+%% Theorem-like environments
+
+\numberwithin{equation}{chapter}
+
+%% English variants
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{example}[theorem]{Example}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{hypothesis}[theorem]{Hypothesis}
+\newtheorem{assumption}[theorem]{Assumption}
+
+%% Proof environment with a small square as a "qed" symbol
+\theoremstyle{nonumberplain}
+\theorembodyfont{\normalfont}
+\theoremsymbol{\ensuremath{\square}}
+\newtheorem{proof}{Proof}
+%\newtheorem{beweis}{Beweis}

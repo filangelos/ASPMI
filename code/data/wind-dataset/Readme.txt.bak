@@ -1,0 +1,3 @@
+- Wind data for 'low', 'medium' and 'high' regions.
+- Wind was sampled at 50Hz for each region, in the "north" and "east" direction.
+- Data length = 5000.
