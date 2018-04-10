@@ -23,5 +23,4 @@ Execute `eps2pdf.sh` bash script to convert `EPS` format figures to `PDF`.
 
 The `LaTeX` project is available at `/tex` folder; developed and tested on [sharelatex.com](https://www.sharelatex.com/).
 
-[Questions](Coursework.pdf)<br>
-[Answers](Report.pdf)
+[Questions](Coursework.pdf) & [Answers](Report.pdf)
